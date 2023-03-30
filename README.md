@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dishikatalreja
-- 👀 I’m interested in web development and cyber security
+- 👀 I’m interested in web development, app development and cyber security
 - 🌱 I’m currently learning Java(Adv) and JavaScript
 - 📫 How to reach me linkedin.com/in/dishika-talreja-a45850227
 
